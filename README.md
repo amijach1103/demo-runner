@@ -53,3 +53,7 @@ network call, no install.
 
 ⚠️ Voices and timing differ between browsers, which is exactly why the advance is bound to
 the end event rather than to a measured duration.
+
+---
+
+The thinking behind this is at [aguedaschwartz.com/practice](https://aguedaschwartz.com/practice).
